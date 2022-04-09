@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name            = "GoogleTest"
-  s.version         = "0.1"
+  s.version         = "1.11.0"
   s.summary         = "GoogleTest"
   s.description     = "GoogleTest"
   s.homepage        = "https://github.com/google/googletest"
